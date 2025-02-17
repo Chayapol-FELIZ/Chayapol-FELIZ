@@ -2,8 +2,9 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chayapol-feliz&label=Profile%20views&color=0e75b6&style=flat" alt="chayapol-feliz" /> </p>
 <p align="left">My name is Chayapol and I'm a passionate frontend developer, from thailand</p>
-[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Chayapol-FELIZ)
+
 
 ###
 
@@ -70,3 +71,8 @@
 </div>
 
 ###
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chayapol-feliz&show_icons=true&locale=en" alt="chayapol-feliz" /></p>
+
+###
+
