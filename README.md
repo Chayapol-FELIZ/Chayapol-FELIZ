@@ -3,7 +3,7 @@
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayapol-feliz&label=Profile%20views&color=0e75b6&style=flat" alt="chayapol-feliz" /> </p>
-<p align="left">My name is Chayapol and I'm a passionate frontend developer, from thailand</p>
+<p align="left">My name is Chayapol and I'm a passionate software developer, from thailand</p>
 
 
 ###
