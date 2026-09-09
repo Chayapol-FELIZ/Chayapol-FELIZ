@@ -3,7 +3,7 @@
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayapol-feliz&label=Profile%20views&color=0e75b6&style=flat" alt="chayapol-feliz" /> </p>
-<p align="left">My name is Chayapol and I'm a passionate software developer, from thailand</p>
+<p align="left">My name is Chayapol and I'm a passionate software engineer, from thailand</p>
 
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently <b>Software Developer</b><br>🎯 Goals <b>Full Stack Developer</b><br>🎲 Motto <b>Never say “I can’t.”</b><br>📫 How to reach me <b>chayapolchaijaroen@gmail.com</b>
+<p align="left">📚 I'm currently <b>Software Engineer</b><br>🎯 Goals <b>Create new innovations</b><br>🎲 Motto <b>Never say “I can’t.”</b><br>📫 How to reach me <b>chayapolchaijaroen@gmail.com</b>
 </p>
 
 ###
